@@ -1,2 +1,2 @@
 # DEMO
-this is a git session
+this is a git session.
